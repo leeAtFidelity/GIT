@@ -18,5 +18,5 @@
 </asp:Content>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
-
+    <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
 </asp:Content>
